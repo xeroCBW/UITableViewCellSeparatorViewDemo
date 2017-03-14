@@ -21,6 +21,9 @@
 }
 
 
+/**
+ 消除 section 分割线
+ */
 - (void)addSubview:(UIView *)view
 {
     //如果是_UITableViewCellSeparatorView就不让添加
